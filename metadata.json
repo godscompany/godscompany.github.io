@@ -1,7 +1,10 @@
 {
-  "suburbs": [
+  "description": "Offering reliable and convenient airport transfer services from Lara to Tullamarine Airport and surrounding suburbs. Book your hassle-free transfer today!",
+  "keywords": ["airport transfers", "Lara to Tullamarine Airport", "suburb-to-airport transfers", "transportation services", "Geelong area", "Surf Coast Shire", "Bannockburn", "Colac"],
+  "locations": [
     "Belmont",
-    "Highton Geelong",
+    "Highton",
+    "Geelong",
     "Newtown",
     "Grovedale",
     "Waurn Ponds",
@@ -19,7 +22,6 @@
     "Curlewis",
     "Moolap",
     "Newcomb",
-    "Surf Coast Shire",
     "Torquay",
     "Anglesea",
     "Lorne",
@@ -77,6 +79,20 @@
     "Johanna",
     "Barongarook",
     "Pirron Yallock"
+  ],
+  "services": [
+    {
+      "name": "Private Transfers",
+      "description": "Enjoy a comfortable and exclusive transfer experience with our private airport transfer service."
+    },
+    {
+      "name": "Group Transfers",
+      "description": "Travel with your group in style and convenience with our spacious group transfer service."
+    },
+    {
+      "name": "Special Occasion Transfers",
+      "description": "Make your special occasions memorable with our tailored and reliable special occasion transfer service."
+    }
   ]
 }
 

@@ -30,5 +30,11 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://www.geelongairporttransfers.com.au/airport-transfers-geelong.html</loc>
+        <lastmod>2023-06-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
 
