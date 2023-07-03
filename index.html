@@ -30,7 +30,11 @@
 
 <body>
     <header>
-        <img src="images/logo.png" alt="Geelong to Melbourne Airport Transfers" class="logo">
+        <div class="logo-container">
+            <a href="#" id="logo-link">
+                <img src="images/logo.png" alt="Geelong to Tullamarine Airport Transfers" class="logo">
+            </a>
+        </div>
         <h1>Geelong to Melbourne Airport Transfers</h1>
         <nav>
             <ul>
@@ -113,6 +117,14 @@
             </main>
 
     <script src="js/script.js"></script>
+    <script>
+        // Get the current URL
+        var currentUrl = window.location.href;
+    
+        // Update the href attribute of the logo link
+        var logoLink = document.getElementById("logo-link");
+        logoLink.href = currentUrl;
+    </script>
 <footer>
     <div class="footer-content">
         <div class="footer-links">
