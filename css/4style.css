@@ -87,7 +87,6 @@ ul li {
     border-radius: 5px;
     transition: background-color 0.3s ease;
     font-weight: bold;
-    margin-bottom: 10px; /* Increase spacing between buttons */
 }
 
 .cta-button:hover {
