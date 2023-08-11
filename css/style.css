@@ -116,6 +116,7 @@ ul li {
 #services,
 #fleet,
 #contact,
+#beauty,
 #why-choose-us {
     background-color: #fff;
     padding: 30px;
@@ -127,6 +128,7 @@ ul li {
 #about h2,
 #services h2,
 #fleet h2,
+#beauty h2,
 #contact h2,
 #why-choose-us h2 {
     color: #333;
@@ -135,6 +137,7 @@ ul li {
 #about p,
 #services p,
 #fleet p,
+#beauty p,
 #contact p,
 #why-choose-us p {
     color: #555;
