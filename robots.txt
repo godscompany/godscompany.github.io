@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.geelongairporttransfers.com.au/sitemap.xml
+Sitemap: https://geelongairporttransfers.com.au/sitemap.xml
 Sitemap: https://geelongairporttransfers.com.au/las-hugotheme/sitemap.xml
 Sitemap: https://geelongairporttransfers.com.au/hugo/sitemap.xml
