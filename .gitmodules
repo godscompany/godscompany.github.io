@@ -1,3 +1,0 @@
-[submodule "hugo-website"]
-	path = hugo-website
-	url = git@github.com:godscompany/hugo-website.git
