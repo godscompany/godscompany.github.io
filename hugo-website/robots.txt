@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.tullamarineairporttransfers.com.au/sitemap.xml
+Sitemap: https://www.tullamarineairporttransfers.com.au/hugo/sitemap.xml

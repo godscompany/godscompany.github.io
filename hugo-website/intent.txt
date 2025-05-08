@@ -1,0 +1,5 @@
+Here's the complete list of suburbs around Geelong and the western side of Melbourne, including approximate distances to Avalon and Tullamarine airports and key attractions. Please note that these values are estimated and can be adjusted based on actual data.
+
+State,City,Suburb,DistanceToAvalon,DistanceToTullamarine,Attractions
+Victoria,Geelong,Lara,20,50,"Lara Lake, Serendip Sanctuary, Little River Railway Station"
+Victoria,Geelong,Geelong,30,75,"Geelong Waterfront, Eastern Beach, National Wool Museum,

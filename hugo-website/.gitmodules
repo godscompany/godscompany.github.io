@@ -1,0 +1,18 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/Niello"]
+	path = themes/Niello
+	url = git@github.com:guangmean/Niello.git
+[submodule "themes/hugo-universal-theme"]
+	path = themes/hugo-universal-theme
+	url = git@github.com:devcows/hugo-universal-theme.git
+[submodule "themes/hugoplate"]
+	path = themes/hugoplate
+	url = git@github.com:zeon-studio/hugoplate.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/docsy"]
+	path = themes/docsy
+	url = git@github.com:google/docsy.git

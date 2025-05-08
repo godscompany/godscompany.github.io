@@ -1,0 +1,24 @@
+- name: Lara
+  slug: lara
+  distance_to_avalon: 10
+  distance_to_tullamarine: 70
+  highlights:
+    - Quiet residential area
+    - Great schools and parks
+  attractions:
+    - Serendip Sanctuary
+    - Serendip Sanctuary1
+    - You Yangs Regional Park
+    - You Yangs Regional Park2
+
+- name: Geelong
+  slug: geelong
+  distance_to_avalon: 20
+  distance_to_tullamarine: 85
+  highlights:
+    - Vibrant waterfront
+    - Excellent restaurants and cafes
+  attractions:
+    - Geelong Botanical Gardens
+    - Eastern Beach Reserve
+
