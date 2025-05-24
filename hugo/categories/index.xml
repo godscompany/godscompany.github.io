@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lara Airport Services</title>
     <link>https://geelongairporttransfers.com.au/hugo/categories/</link>
     <description>Recent content in Categories on Lara Airport Services</description>
-    <image>
-      <title>Lara Airport Services</title>
-      <url>https://geelongairporttransfers.com.au/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://geelongairporttransfers.com.au/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.147.1</generator>
-    <language>en</language>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 May 2025 01:11:33 +0000</lastBuildDate>
     <atom:link href="https://geelongairporttransfers.com.au/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avalon Airport</title>
+      <link>https://geelongairporttransfers.com.au/hugo/categories/avalon-airport/</link>
+      <pubDate>Sat, 24 May 2025 01:11:33 +0000</pubDate>
+      <guid>https://geelongairporttransfers.com.au/hugo/categories/avalon-airport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Melbourne Airport</title>
+      <link>https://geelongairporttransfers.com.au/hugo/categories/melbourne-airport/</link>
+      <pubDate>Sat, 24 May 2025 01:11:33 +0000</pubDate>
+      <guid>https://geelongairporttransfers.com.au/hugo/categories/melbourne-airport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Spirit of Tasmania</title>
+      <link>https://geelongairporttransfers.com.au/hugo/categories/the-spirit-of-tasmania/</link>
+      <pubDate>Sat, 24 May 2025 01:11:33 +0000</pubDate>
+      <guid>https://geelongairporttransfers.com.au/hugo/categories/the-spirit-of-tasmania/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tullamarine Airport</title>
+      <link>https://geelongairporttransfers.com.au/hugo/categories/tullamarine-airport/</link>
+      <pubDate>Sat, 24 May 2025 01:11:33 +0000</pubDate>
+      <guid>https://geelongairporttransfers.com.au/hugo/categories/tullamarine-airport/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
