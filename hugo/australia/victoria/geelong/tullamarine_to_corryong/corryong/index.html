@@ -330,8 +330,8 @@
 
 
 <link
-  href="/hugo/css/style.min.7b41fa6313bffaacc49bb2023dd6dc759ca8ed26d4a839ee038fe01d32de0cf0.css"
-  integrity="sha256-e0H6YxO/&#43;qzEm7ICPdbcdZyo7SbUqDnuA4/gHTLeDPA="
+  href="/hugo/css/style.min.13751ca14214b91a6127b9a7b30598e2f66ee39f245596312e443ab00d0151e5.css"
+  integrity="sha256-E3UcoUIUuRphJ7mnswWY4vZu458kVZYxLkQ6sA0BUeU="
   rel="stylesheet" />
 
 
@@ -622,16 +622,6 @@
     <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
       
         
-          <button
-            aria-label="search"
-            class="border-border text-text-dark hover:text-primary
-            dark:border-darkmode-border mr-5 inline-block border-r pr-5
-            text-xl dark:text-white cursor-pointer dark:hover:text-darkmode-primary
-            "
-            data-target="search-modal">
-            <i class="fa-solid fa-search"></i>
-          </button>
-        
       
 
       
@@ -732,108 +722,6 @@
 
 
 
-  
-    <div
-      class="search-modal "
-      aria-hidden="true"
-      style="--color-primary: #9b804a">
-      <div data-target="close-search-modal" class="search-modal-overlay"></div>
-      <div
-        class="search-wrapper"
-        data-image="true"
-        data-description="true"
-        data-tags="true"
-        data-categories="true">
-        <div class="search-wrapper-header">
-          <label for="search-modal-input" style="margin-top:-1px">
-            <span class="sr-only">search icon</span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 512 512"
-              height="18"
-              width="18"
-              class="search-icon"
-              data-type="search">
-              <path
-                fill="currentColor"
-                d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z" />
-            </svg>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 512 512"
-              height="18"
-              width="18"
-              class="search-reset"
-              data-type="reset">
-              <path
-                fill="currentColor"
-                d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM175 175c9.4-9.4 24.6-9.4 33.9 0l47 47 47-47c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-47 47 47 47c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-47-47-47 47c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l47-47-47-47c-9.4-9.4-9.4-24.6 0-33.9z" />
-            </svg>
-          </label>
-          <input
-            id="search-modal-input"
-            type="text"
-            data-search-input
-            autocomplete="off"
-            aria-label="Search"
-            placeholder="Search Post..." />
-        </div>
-        <div class="search-wrapper-body">
-          <div class="search-result" data-search-result></div>
-          <span class="search-result-empty">
-            Type something to search..
-          </span>
-        </div>
-        <div class="search-wrapper-footer">
-          <span>
-            <kbd>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="14"
-                height="14"
-                fill="currentColor"
-                viewBox="0 0 16 16">
-                <path
-                  d="M3.204 11h9.592L8 5.519 3.204 11zm-.753-.659 4.796-5.48a1 1 0 0 1 1.506 0l4.796 5.48c.566.647.106 1.659-.753 1.659H3.204a1 1 0 0 1-.753-1.659z" />
-              </svg>
-            </kbd>
-            <kbd>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="14"
-                height="14"
-                fill="currentColor"
-                style="margin-top:1px;"
-                viewBox="0 0 16 16">
-                <path
-                  d="M3.204 5h9.592L8 10.481 3.204 5zm-.753.659 4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
-              </svg>
-            </kbd>
-            to navigate
-          </span>
-          <span>
-            <kbd>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="12"
-                height="12"
-                fill="currentColor"
-                style="display:inline-block;"
-                viewBox="0 0 16 16">
-                <path
-                  fill-rule="evenodd"
-                  d="M14.5 1.5a.5.5 0 0 1 .5.5v4.8a2.5 2.5 0 0 1-2.5 2.5H2.707l3.347 3.346a.5.5 0 0 1-.708.708l-4.2-4.2a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 8.3H12.5A1.5 1.5 0 0 0 14 6.8V2a.5.5 0 0 1 .5-.5z" />
-              </svg>
-            </kbd>
-            to select
-          </span>
-          <span class="search-result-info"></span>
-          <span data-target="close-search-modal">
-            <kbd>ESC</kbd> to close
-          </span>
-        </div>
-      </div>
-    </div>
   
 
 
@@ -1046,7 +934,7 @@
             
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
-              May 25, 2025
+              May 26, 2025
             </li>
           </ul>
           <div class="content mb-10">
@@ -1113,7 +1001,7 @@
 <p><strong>Shared Ride Services</strong> – A cost-effective, eco-friendly solution, our shared ride options allow you to split your transfer with others heading to the same area. Starting from just <strong>$560.0</strong>, it’s perfect for solo travellers or those looking to save while still enjoying reliable transport from the airport to <strong>Corryong</strong>.</p>
 </li>
 <li>
-<p><strong>Private Transfers</strong> – Prefer exclusive comfort and direct service? Our <strong>private transfers</strong> offer spacious vehicles and flexible scheduling for families, business travellers, or groups. With fares starting at <strong>$1100.0</strong>, enjoy a premium, uninterrupted ride from the airport to <strong>Corryong</strong> in comfort and privacy.</p>
+<p><strong>Private Transfers</strong> – Prefer exclusive comfort and direct service? Our <strong>private transfers</strong> offer spacious vehicles and flexible scheduling for families, business travellers, or groups. With fares starting at <strong>$1120.0</strong>, enjoy a premium, uninterrupted ride from the airport to <strong>Corryong</strong> in comfort and privacy.</p>
 </li>
 </ul>
 <p>Every journey with us is built around your convenience and comfort. Our experienced local drivers know <strong>Corryong</strong> and surrounding areas inside and out, ensuring that your transfer from the airport is always smooth, safe, and on time.</p>
@@ -1626,8 +1514,8 @@ Though we monitor flight times and traffic in real time, it’s helpful to stay 
   
   
   <h4 class="mb-3">
-    <a href="/hugo/australia/victoria/geelong/geelong/">
-      Geelong Airport Transfers from Geelong, Victoria
+    <a href="/hugo/australia/victoria/geelong/tullamarine_to_aireys-inlet/aireys-inlet/">
+      Airport Transfers to Aireys Inlet, Victoria from Tullamarine &amp; Avalon
     </a>
   </h4>
   
@@ -1674,9 +1562,9 @@ Though we monitor flight times and traffic in real time, it’s helpful to stay 
       </li>
     </ul>
   
-  <p class="mb-6">Hassle-Free Airport Transfers from Geelong Getting to your flight on time from Geelong has never been easier or more convenient. Whether you’re jetting off for a business trip, planning a weekend getaway, or embarking on an international vacation, our professional airport transfer services are designed to ensure that your journey to the airport is smooth, timely, and completely hassle-free.
+  <p class="mb-6">Hassle-Free Airport Transfers to Aireys Inlet Landing in Melbourne or Avalon? Getting to Aireys Inlet from the airport has never been easier or more convenient. Whether you&rsquo;re returning home, visiting friends and family, or arriving for business, our professional airport transfer services are designed to make your journey from the terminal to your destination smooth, timely, and completely hassle-free.
 </p>
-  <a class="btn btn-outline-primary btn-sm" href="/hugo/australia/victoria/geelong/geelong/">
+  <a class="btn btn-outline-primary btn-sm" href="/hugo/australia/victoria/geelong/tullamarine_to_aireys-inlet/aireys-inlet/">
     Read More
   </a>
 </div>
@@ -1688,8 +1576,8 @@ Though we monitor flight times and traffic in real time, it’s helpful to stay 
   
   
   <h4 class="mb-3">
-    <a href="/hugo/australia/victoria/geelong/tullamarine_to_altona-meadows/altona-meadows/">
-      Airport Transfers to Altona Meadows, Victoria from Tullamarine &amp; Avalon
+    <a href="/hugo/australia/victoria/geelong/tullamarine_to_alfredton/alfredton/">
+      Airport Transfers to Alfredton, Victoria from Tullamarine &amp; Avalon
     </a>
   </h4>
   
@@ -1736,9 +1624,9 @@ Though we monitor flight times and traffic in real time, it’s helpful to stay 
       </li>
     </ul>
   
-  <p class="mb-6">Hassle-Free Airport Transfers to Altona Meadows Landing in Melbourne or Avalon? Getting to Altona Meadows from the airport has never been easier or more convenient. Whether you&rsquo;re returning home, visiting friends and family, or arriving for business, our professional airport transfer services are designed to make your journey from the terminal to your destination smooth, timely, and completely hassle-free.
+  <p class="mb-6">Hassle-Free Airport Transfers to Alfredton Landing in Melbourne or Avalon? Getting to Alfredton from the airport has never been easier or more convenient. Whether you&rsquo;re returning home, visiting friends and family, or arriving for business, our professional airport transfer services are designed to make your journey from the terminal to your destination smooth, timely, and completely hassle-free.
 </p>
-  <a class="btn btn-outline-primary btn-sm" href="/hugo/australia/victoria/geelong/tullamarine_to_altona-meadows/altona-meadows/">
+  <a class="btn btn-outline-primary btn-sm" href="/hugo/australia/victoria/geelong/tullamarine_to_alfredton/alfredton/">
     Read More
   </a>
 </div>
@@ -1750,8 +1638,8 @@ Though we monitor flight times and traffic in real time, it’s helpful to stay 
   
   
   <h4 class="mb-3">
-    <a href="/hugo/australia/victoria/geelong/corryong/">
-      Geelong Airport Transfers from Corryong, Victoria
+    <a href="/hugo/australia/victoria/geelong/tullamarine_to_geelong/geelong/">
+      Airport Transfers to Geelong, Victoria from Tullamarine &amp; Avalon
     </a>
   </h4>
   
@@ -1798,9 +1686,9 @@ Though we monitor flight times and traffic in real time, it’s helpful to stay 
       </li>
     </ul>
   
-  <p class="mb-6">Hassle-Free Airport Transfers from Corryong Getting to your flight on time from Corryong has never been easier or more convenient. Whether you’re jetting off for a business trip, planning a weekend getaway, or embarking on an international vacation, our professional airport transfer services are designed to ensure that your journey to the airport is smooth, timely, and completely hassle-free.
+  <p class="mb-6">Hassle-Free Airport Transfers to Geelong Landing in Melbourne or Avalon? Getting to Geelong from the airport has never been easier or more convenient. Whether you&rsquo;re returning home, visiting friends and family, or arriving for business, our professional airport transfer services are designed to make your journey from the terminal to your destination smooth, timely, and completely hassle-free.
 </p>
-  <a class="btn btn-outline-primary btn-sm" href="/hugo/australia/victoria/geelong/corryong/">
+  <a class="btn btn-outline-primary btn-sm" href="/hugo/australia/victoria/geelong/tullamarine_to_geelong/geelong/">
     Read More
   </a>
 </div>
