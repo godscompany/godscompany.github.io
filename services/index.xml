@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Airport Transfers &amp; Wine Tours on Lara Airport Services</title>
-    <link>https://geelongairporttransfers.com.au/services/</link>
+    <link>http://localhost:1313/services/</link>
     <description>Recent content in Airport Transfers &amp; Wine Tours on Lara Airport Services</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://geelongairporttransfers.com.au/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avalon Airport Transfers</title>
-      <link>https://geelongairporttransfers.com.au/services/avalon/</link>
+      <link>http://localhost:1313/services/avalon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geelongairporttransfers.com.au/services/avalon/</guid>
+      <guid>http://localhost:1313/services/avalon/</guid>
       <description>&lt;p&gt;Traveling to or from Avalon Airport? Let us make it smooth and hassle-free. Our &lt;strong&gt;Avalon Airport Transfer Service&lt;/strong&gt; is trusted by locals and visitors for its punctuality, comfort, and friendly service.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Melbourne Airport Transfers</title>
-      <link>https://geelongairporttransfers.com.au/services/melbourne/</link>
+      <link>http://localhost:1313/services/melbourne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geelongairporttransfers.com.au/services/melbourne/</guid>
+      <guid>http://localhost:1313/services/melbourne/</guid>
       <description>&lt;p&gt;Start or end your journey with ease. Our &lt;strong&gt;Melbourne Airport Transfer Service&lt;/strong&gt; offers punctual, comfortable, and stress-free rides for individuals, families, and business travelers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Winery Tours</title>
-      <link>https://geelongairporttransfers.com.au/services/wineries/</link>
+      <link>http://localhost:1313/services/wineries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geelongairporttransfers.com.au/services/wineries/</guid>
+      <guid>http://localhost:1313/services/wineries/</guid>
       <description>&lt;p&gt;Experience the beauty and flavors of &lt;strong&gt;Victoria’s renowned wine regions&lt;/strong&gt; with our curated &lt;strong&gt;winery tours&lt;/strong&gt;. Whether you&amp;rsquo;re celebrating a special occasion or simply indulging in a day of wine tasting and relaxation, we make your journey unforgettable.&lt;/p&gt;</description>
     </item>
   </channel>
