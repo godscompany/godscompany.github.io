@@ -1,0 +1,2 @@
+Repo URL: git@github.com:godscompany/hugo-website.git
+Commit Hash: b629ca449278398eda80490cbd92d9aaa12cf58c
